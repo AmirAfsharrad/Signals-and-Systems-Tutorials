@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Properties of the ROC}{27}{0}{2}
+\beamer@sectionintoc {3}{Properties of the $ z $-Transform}{46}{0}{3}
+\beamer@sectionintoc {4}{$ z $-Transform and LTI Systems}{63}{0}{4}
